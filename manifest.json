@@ -1,0 +1,9 @@
+{
+    "name": "Money",
+    "short_name": "Money",
+    "display": "standalone",
+    "icons": [{
+        "src": "/icon.png",
+        "sizes": "512x512"}
+     ]
+ }
